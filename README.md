@@ -1,5 +1,5 @@
 ```plaintext
-# Macbook Subscription Smart Contract
+# Macbook Subscription
 
 ## Overview
 
